@@ -1,6 +1,8 @@
 # fridge_app
 
-A new Flutter project.
+This is an application which tries to solve the problem in which roommates or basically people sharing a fridge over buy the neccessary food items and
+the food items end up getting spoiled. With this application, you and anyone can keep track of what is in your fridge and you will get alerted when you run out of a certain food item.
+Future implementation: Integrate with smart fridges
 
 ## Getting Started
 
